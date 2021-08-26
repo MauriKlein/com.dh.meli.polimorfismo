@@ -8,7 +8,7 @@ public class Main {
 
         //Testando a conta poupança
         Conta poupanca = new ContaPoupanca();
-        poupanca.fazerDeposito(1000);
+        poupanca.fazerDeposito(500);
         poupanca.mostrarSaldo();//método que caracteriza polimorfismo
 
         //Testando a conta poupança
